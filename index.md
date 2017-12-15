@@ -7,7 +7,7 @@ layout: page-shell
 
 <div class="Alert"> 
   <div class="Alert-title">⚠️ Contributors Needed</div>
-  <div class="Alert-text">This is a community project that came out of the <a href="http://techforgood.org.za/" class="Alert-link" target="_blank">Tech for Good</a> community evenings. To get involved please <a href="http://techforgood.org.za/guides/join-slack/index.html" class="Alert-link" target="_blank">join our Slack channel</a>. </div>
+  <div class="Alert-text">This is a community project that came out of the <a href="http://techforgood.org.za/" class="Alert-link" target="_blank">Tech for Good</a> community evenings. To get involved please get in touch with us at <span class="Alert-link is-not-link">get-involved@techforgood.org.za</span>.</div>
 </div>
 
 <div class="Description">
