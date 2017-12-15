@@ -1,0 +1,65 @@
+body {
+  font-family: Roboto;
+  padding: 50px;
+}
+
+.Icon {
+  font-size: 60px;
+  text-align: center;
+}
+
+.Title {
+  font-weight: bold;
+  font-size: 50px;
+  text-align: center;
+  font-family: Montserrat;
+}
+
+.Alert {
+  padding: 15px;
+  border-radius: 5px;
+  padding: 30px;
+  color: #31708f;
+  background-color: #d9edf7;
+  border: 1px solid #bce8f1;
+  max-width: 500px;
+  margin: 40px auto 0;
+}
+
+.Alert-title {
+  font-weight: bold;
+  font-family: Montserrat;
+}
+
+.Alert-text {
+  padding-top: 15px;
+}
+
+.Alert-link {
+  color: #31708f;
+}
+
+.Alert-link:hover {
+  background-color: #afd9ee;
+  border-radius: 3px;
+}
+
+.Description {
+  padding-top: 5px;
+  margin: 0 auto;
+  max-width: 600px;
+}
+
+.Description-heading {
+  padding-top: 25px;
+  font-size: 20px;
+  font-weight: bold;
+}
+
+.Link {
+  color: black;
+}
+
+.Link:hover {
+  background-color: #e6e6e6;
+}
