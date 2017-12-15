@@ -39,14 +39,14 @@ body {
   color: #31708f;
 }
 
-.Alert-link:hover {
+.Alert-link:not(.is-not-link):hover {
   background-color: #afd9ee;
   border-radius: 3px;
 }
 
 .Description {
   padding-top: 5px;
-  margin: 0 auto;
+  margin: 30px auto;
   max-width: 600px;
 }
 
