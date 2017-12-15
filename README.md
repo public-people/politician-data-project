@@ -2,7 +2,7 @@
 
 ## ⚠️ Contributors Needed
 
-This is a community project that came out of the [Tech for Good](http://techforgood.org.za/) community evenings. To get involved please [join our Slack channel](http://techforgood.org.za/guides/join-slack/index.html)
+This is a community project that came out of the [Tech for Good](http://techforgood.org.za/) community evenings. To get involved please get in touch with us at get-involved@techforgood.org.za.
 
 ## 🏁 Project Goal
 
