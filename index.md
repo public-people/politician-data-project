@@ -14,7 +14,7 @@ layout: page-shell
   <div class="Description-heading">🏁 Project Goal</div>
   <p>We should know who is running our local, provincial and national governments</p>
 
-  <p>Searching online for individuals you find in the news and conversation gives you the web pages that are most popular or relevant to what you're searching for. This does not give you a good overview with a broad range of reputable sources.</p>
+  <p>Searching online for individuals you find in the news and conversation gives you the web pages that are most popular or relevant to what you're searching for. This does not necessarily give you a good overview with a broad range of reputable sources.</p>
 
   <p>It should be easy to learn about the political past of all publicly appointed officials.</p>
 

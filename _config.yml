@@ -13,7 +13,7 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: Politician Data
+title: Public People
 email: venterschalk@gmail.com
 description: It should be easy to get an idea of who influential people are. Part of who they are is what political or government positions they've held in the past.
 baseurl: "" # the subpath of your site, e.g. /blog
